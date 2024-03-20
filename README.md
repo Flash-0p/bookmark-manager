@@ -1,1 +1,1 @@
-Basic Bookmark Manager for Your browser [ wp }
+Basic Bookmark Manager for Your browser [ Work in Progress ]
